@@ -1,0 +1,11 @@
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\bin\Debug\netcoreapp2.0\Test C_sharp.deps.json
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\bin\Debug\netcoreapp2.0\Test C_sharp.runtimeconfig.json
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\bin\Debug\netcoreapp2.0\Test C_sharp.runtimeconfig.dev.json
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\bin\Debug\netcoreapp2.0\Test C_sharp.dll
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\bin\Debug\netcoreapp2.0\Test C_sharp.pdb
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\obj\Debug\netcoreapp2.0\Test C_sharp.csprojAssemblyReference.cache
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\obj\Debug\netcoreapp2.0\Test C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\obj\Debug\netcoreapp2.0\Test C_sharp.AssemblyInfoInputs.cache
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\obj\Debug\netcoreapp2.0\Test C_sharp.AssemblyInfo.cs
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\obj\Debug\netcoreapp2.0\Test C_sharp.dll
+C:\Users\Le Hoang Anh\RiderProjects\Test C_sharp\Test C_sharp\obj\Debug\netcoreapp2.0\Test C_sharp.pdb

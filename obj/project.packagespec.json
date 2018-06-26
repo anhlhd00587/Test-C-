@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Le Hoang Anh\\RiderProjects\\Test C_sharp\\Test C_sharp\\Test C_sharp.csproj",
+    "projectName": "Test C_sharp",
+    "projectPath": "C:\\Users\\Le Hoang Anh\\RiderProjects\\Test C_sharp\\Test C_sharp\\Test C_sharp.csproj",
+    "outputPath": "C:\\Users\\Le Hoang Anh\\RiderProjects\\Test C_sharp\\Test C_sharp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
